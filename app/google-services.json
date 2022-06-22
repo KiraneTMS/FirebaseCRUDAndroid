@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117468296957",
+    "project_id": "anipro-4a639",
+    "storage_bucket": "anipro-4a639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117468296957:android:80da1be6fb5ff5a7e57094",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117468296957-mqm38nqndeg8b8ov9ass25v0c396nr90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI8azQOcYykCkZSYIpwPWfL3B9WIvTTrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117468296957-mqm38nqndeg8b8ov9ass25v0c396nr90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
